@@ -1,2 +1,3 @@
 Hello from Kelvin
 Hello Baba Jabari
+23 Nov: pushed my journal to GitHub with gh
