@@ -1,1 +1,1 @@
-My Reduzer School journal - Git and Linux practice
+# My Reduzer School journal - Git and Linux practice
